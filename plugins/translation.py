@@ -40,8 +40,6 @@ I Am Telegram URL Uploader Bot.
 
 **📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
-**👨‍💻 Developer** : [LISA](https://t.me/LISA_FAN_LK)
-
 """
 
 
